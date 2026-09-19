@@ -1,0 +1,18 @@
+# Configuración del negocio — Generado por AgentKit
+negocio:
+  nombre: "Negocio en Automático"
+  descripcion: "Automatizaciones con agentes de IA y sistemas automatizados de prospección e investigación de clientes potenciales para negocios. Nicolás vendió e implementó software de gestión en salud (HIS-ERP) a clínicas y hospitales en Colombia durante años, y construyó su metodología sobre una idea central: el que hace seguimiento gana, no el que tiene el mejor producto. A través de la marca Negocio en Automático enseña y ofrece cómo armar sistemas de seguimiento automático de clientes potenciales sin pagar un CRM caro. Le escriben dueños de negocios que venden software, negocios locales, e independientes."
+  horario: "24/7"
+
+agente:
+  nombre: "Negocio en Automático"
+  tono: "profesional y persuasivo"
+  casos_de_uso:
+    - "Responder preguntas frecuentes"
+    - "Agendar llamadas"
+    - "Calificar y atender leads / ventas"
+
+metadata:
+  creado: "2026-09-19"
+  proveedor: "zernio"
+  version: "2.0"
